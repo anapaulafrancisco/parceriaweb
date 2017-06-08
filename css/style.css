@@ -1,0 +1,7 @@
+.fundo-texto
+{
+    background: rgba(0,0,0,.5);
+    padding: 10px 30px;
+    border-radius: 6px;
+    color: #fff;
+}
