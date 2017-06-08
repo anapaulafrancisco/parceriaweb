@@ -1,7 +1,15 @@
-.fundo-texto
+.fundo-texto-cinza
 {
-    background: rgba(0,0,0,.5);
-    padding: 10px 30px;
-    border-radius: 6px;
+    background: rgba(43, 60, 86, 0.44); 
+    padding: 3px 19px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.fundo-texto-azul
+{
+    background: rgba(40, 177, 220, 0.33); 
+    padding: 3px 30px;
+    border-radius: 5px;
     color: #fff;
 }
