@@ -13,3 +13,8 @@
     border-radius: 5px;
     color: #fff !important;
 }
+
+.navbar-brand
+{
+    font-size: 24px !important;
+}
